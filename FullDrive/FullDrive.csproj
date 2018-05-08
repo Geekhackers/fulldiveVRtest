@@ -407,8 +407,7 @@
     <Compile Include="Assets\Objects\RootObject.cs" />
     <Compile Include="Assets\Objects\RootObjectList.cs" />
     <Compile Include="Assets\Objects\User.cs" />
-    <Compile Include="Assets\Scriptes\Searches.cs" />
-    <Compile Include="Assets\Scriptes\Spawn.cs" />
+    <Compile Include="Assets\Scriptes\VRMenu.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\GoogleVR\Demos\Shaders\HelloVR\HelloVRUnlitGrayscaleToColor.shader" />
